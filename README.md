@@ -45,5 +45,5 @@ Tries with other classification ML algorithms to come.
 ## Contributing
 I'm open to contribution. I believe that the data science community is strong and the best way to make improvements is to share and discuss.
 
-## Project status
-Still in progress.
+## Project
+I did this project to discover R programming language and tools on data manipulation, data vizualisation and Machine Learning. This is my first classification problem.
