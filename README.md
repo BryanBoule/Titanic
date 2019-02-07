@@ -1,4 +1,7 @@
 # Titanic
+
+(07/2017)
+
 Titanic competition in R.
 
 Link : https://www.kaggle.com/c/titanic
