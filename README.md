@@ -2,7 +2,7 @@
 
 (07/2017)
 
-Titanic competition in R.
+Survival predictionapplied to the Titanic sinking in R.
 
 Link : https://www.kaggle.com/c/titanic
 
@@ -38,12 +38,6 @@ In this challenge, we ask you to complete the analysis of what sorts of people w
 
 ## Software
 Rstudio.
-
-## Usage
-I did this competition to harness my skills and experience a data science project from scratch.
-
-## Roadmap
-Tries with other classification ML algorithms to come.
 
 ## Contributing
 I'm open to contribution. I believe that the data science community is strong and the best way to make improvements is to share and discuss.
